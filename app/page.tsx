@@ -277,7 +277,7 @@ export default function Home() {
                 alt="Ilustrasi avatar bergaya 3D dengan latar gelap"
                 className="avatar-image"
                 height={440}
-                src="/gua.png"
+                src="/fyss.png"
                 width={440}
               />
             </div>
